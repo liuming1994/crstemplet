@@ -17,5 +17,7 @@ public @interface MapValid {
      *
      * @return 名称
      */
+	
+	//hgasjdhjaks
     String value();
 }
